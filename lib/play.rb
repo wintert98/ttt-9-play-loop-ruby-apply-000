@@ -37,6 +37,6 @@ end
 
 # Define your play method below
 counter = 0
-def play
+def play(board)
   
 end
